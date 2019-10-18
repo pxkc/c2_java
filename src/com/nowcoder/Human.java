@@ -13,5 +13,6 @@ public class Human extends Animal {
 
     public void say() {
         System.out.println("This is " + getName() + " from " + country);
+        System.out.println("hello 增加一句代码留查看自己的版本控制");
     }
 }
