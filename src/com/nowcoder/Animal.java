@@ -31,5 +31,6 @@ public class Animal implements Talking {
     public void say() {
         System.out.println("This is Animal");
         System.out.println("增加有一句代码查看版本控制");
+        System.out.println("没有加add");
     }
 }
